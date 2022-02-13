@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning Js 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram = alpthedude
+- 📫 How to reach me
 
 <!---
 alpyilmazx/alpyilmazx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
